@@ -1,0 +1,171 @@
+/* font-family: 'Roboto Slab', serif; */
+
+/* 
+*:not(path):not(g) {
+	color: hsla(210, 100%, 100%, 0.9) !important;
+	background: hsla(210, 100%, 50%, 0.5) !important;
+	outline: solid 0.25rem hsla(210, 100%, 100%, 0.5) !important;
+	box-shadow: none !important;
+} */
+
+/* Row Top */
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.rowtop {
+  background-color: #ed2124;
+  color: white;
+  vertical-align: middle;
+}
+
+.icon1, .icon2 {
+  color: white;
+}
+.googlemaps {
+  color: white;
+}
+.icon1 {
+  margin-left: 20px;  
+}
+
+.socialmedia {
+  color: white;
+}
+
+
+.socialmediaicons {
+  padding-left: 15px; 
+}
+
+
+.yelp, .facebook, .linkedin {
+  margin-left: 20px;
+  color: white;
+}
+
+.navbar {
+  background-color: black; 
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+}
+
+.logo {
+  width: 80%;
+}
+
+.homepageFood {
+  margin: 2px;
+  margin-bottom: 2em;
+}
+
+
+.homepageTitle {
+  font-weight: bold;
+  font-size: 27px;
+}
+
+.foodPicture {
+  width: 75%;
+}
+
+.imageHeading {
+  font-size: 15px;
+}
+
+.foodDescription {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+
+.caterinheading {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.catering {
+  margin: 50px; 
+}
+
+.title {
+  font-weight: bold;
+}
+
+.cateringPhotos {
+  position: auto;
+  max-width:100%;
+  overflow:visible;
+}
+
+.righttop {
+  padding-bottom: .5em;
+}
+
+.lefttop {
+  padding-bottom: .5em;
+}
+
+#menu {
+  padding: 2em;
+}
+.menufood {
+  width: 60%
+}
+
+.menufood {
+  margin: 10px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 2em;
+}
+.healthy_persian{
+  display: block;
+}
+.caspian {
+  text-align: center;
+  padding-top: 1em;
+}
+.aboutus-para{
+  padding: 2em;
+  margin-bottom: 3em;
+}
+.pdf {
+  color: #ed2124;
+  font-size: 1.5em;
+  padding-bottom: 3em;
+}
+.fa-file-pdf{
+  color: #ed2124;
+  font-size: 2em;
+}
+.mapcontainer {
+  
+  display: flex;
+  margin: 0 auto;
+}
+/* Set the size of the div element that contains the map */
+.map {
+  height: 400px;  /* The height is 400 pixels */
+  width: 100%;  /* The width is the width of the web page */
+  margin-top: 5em;
+  margin-left: 2em;
+  margin-right: 2em;
+  display: block;
+    }
+
+footer {
+  margin-top: 2em;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+.footer {
+  background-color: black;
+  color: white;
+  font-size: 10px;
+}

@@ -1,0 +1,11 @@
+
+
+Color red  : #ed2124;
+
+-----------------------------------
+Fonts style & size
+-----------------------------------
+Location (before header) :    Roboto Slab - Regular - 18
+heading :    		      Roboto Slab - Bold - 40
+mneu items : 		      Roboto Slab - Bold - 22 
+Body Content: 		      Roboto Slab - light - 18
